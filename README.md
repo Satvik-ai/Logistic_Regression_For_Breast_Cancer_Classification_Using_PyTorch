@@ -43,3 +43,13 @@ This project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** from the 
 
 - The model demonstrates high accuracy (98.25%) in distinguishing between malignant and benign tumors.
 - Losses are plotted to show training progress.
+
+<p align="center">
+  <img src="images/loss_progression.png" alt="Losses as training progresses."/>
+</p>
+
+- Classification Report
+
+<p align="center">
+  <img src="images/classification_report.png" alt="Classification Report"/>
+</p>
