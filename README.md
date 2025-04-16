@@ -16,7 +16,7 @@ The goal of this project is to:
 - Define a simple logistic regression model using PyTorch.
 - Train the model using binary cross-entropy loss and stochastic gradient descent (SGD).
 - Evaluate model accuracy and performance.
-- Confusion matrix for more detailed evaluation.
+- Classification report for more detailed evaluation.
 
 ## Dataset
 
