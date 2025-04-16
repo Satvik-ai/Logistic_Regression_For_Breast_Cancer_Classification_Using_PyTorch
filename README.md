@@ -39,7 +39,7 @@ This project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** from the 
 - Linear Transformation of input features via `nn.Linear(#input_features, 1)`.
 - Appplication of Sigmoid function via `torch.sigmoid()`.
 
-## 📊 Results
+## Results
 
 - The model demonstrates high accuracy (98.25%) in distinguishing between malignant and benign tumors.
 - Losses are plotted to show training progress.
